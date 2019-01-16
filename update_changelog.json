@@ -1,7 +1,7 @@
 {
 "latestVersion": "1.0.2",
   "latestVersionCode": "10",
-  "url": "https://github.com/joy-dey/Verzero/blob/master/app-debug.apk?raw=true",
+  "url": "https://github.com/verzero/Verzero/blob/master/apk/com.joy.skylake.verzero-debug1.0.2.160119.apk?raw=true",
   "releaseNotes": [
     "- Google signin issue fixed",
     "- Feedback Page revamped",
